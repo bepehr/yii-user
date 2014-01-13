@@ -69,7 +69,7 @@ return array(
 	'Active' => 'فعال',
 	'Banned' => 'بسته شده',
 	'Please fill out the following form with your login credentials:' => 'لطفآ فرم زیر را با داده های ورود خود پر کنید :',
-	'Fields with <span class="required">*</span> are required.' => '<span class="required">*</span> ضروریست',
+	'Fields with <span class="required">*</span> are required.' => 'فیلد های مشخص شده با<span class="required">*</span> ضروری هستند.',
 	'List User' => 'لیست کاربران',
 	'Edit' => 'ویرایش',
 	'Edit profile' => 'ویرایش نمایه',
